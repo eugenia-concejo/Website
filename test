@@ -1,0 +1,85 @@
+<div class="caré-montre">
+    <img src="images/reloj_1.jpg" class="img-circle shadowed">
+    <p>Or rose</p>
+  </div>
+
+  <div class="caré-montre">
+    <img src="images/reloj_2.jpg" class="img-circle shadowed">
+    <p>Acier Date</p>
+  </div>
+  <div class="caré-montre">
+    <img src="images/reloj_3.jpg" class="img-circle shadowed">
+    <p>Acier Festina</p>
+  </div>
+  <div class="caré-montre">
+    <img src="images/reloj_4.jpg" class="img-circle shadowed">
+    <p>Chronograph</p>
+  </div>
+  <div class="caré-montre">
+    <img src="images/reloj_5.jpg" class="img-circle shadowed">
+    <p>Or Diamants</p>
+  </div>
+
+  <div class="caré-montre">
+    <img src="images/reloj_6.jpg" class="img-circle shadowed">
+    <p>Bracelet en Or</p>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+a {
+  color: green;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: rgb(120, 120, 120);
+  text-decoration: none;
+}
+
+
+div{
+
+	background: white;
+	border: 3px solid rgb(80, 80, 80);
+}
+
+#logo {
+	width: 600px;
+}
+
+.img-circle {
+
+	border-radius: 50%;
+}
+
+.shadowed {
+	box-shadow: 5px 5px 3px rgb(180, 180, 180);
+}
+
+ #leader {
+ 	border: 5px solid blueviolet;
+ }
+
+ .caré-montre {
+ 	border-width: 2px;
+ 	border-color: rgb(60, 60, 60);
+ }
+
+ #banner {
+ 	background-image: url("images/background");
+ 	background-size: cover;
+ }
+
+ #banner h1 {
+ 	color:  rgb(100, 100, 100);
+ }
