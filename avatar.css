@@ -1,0 +1,13 @@
+.caré-montre {
+ 	width: 60px;
+    height: 60px;
+    border-radius: 50%;
+ }
+
+ .img-circle {
+    border-radius: 50%;
+}
+
+.shadowed {
+    box-shadow: 5px 5px 3px rgb(180, 180, 180);
+}
